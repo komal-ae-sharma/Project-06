@@ -245,7 +245,5 @@ changes to be reviewed before they are merged.
 
 ## Project Links
 
-Replace the placeholders before submission:
-
-- GitHub Repository: `https://github.com/YOUR_USERNAME/YOUR_REPOSITORY`
-- Pull Request: `https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/pull/YOUR_PR_NUMBER`
+- GitHub Repository: <https://github.com/komal-ae-sharma/Project-06>
+- Pull Request: <https://github.com/komal-ae-sharma/Project-06/pull/2>
